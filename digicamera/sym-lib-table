@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "max4466")(type "KiCad")(uri "${KIPRJMOD}/max4466.kicad_sym")(options "")(descr ""))
+  (lib (name "ip2312_ic")(type "KiCad")(uri "${KIPRJMOD}/ip2312_ic.kicad_sym")(options "")(descr ""))
+  (lib (name "esp32s3_devkit_n16r8")(type "KiCad")(uri "${KIPRJMOD}/esp32s3_devkit_n16r8.kicad_sym")(options "")(descr ""))
+  (lib (name "mt3608_module")(type "KiCad")(uri "${KIPRJMOD}/mt3608_module.kicad_sym")(options "")(descr ""))
+  (lib (name "ip2312_module")(type "KiCad")(uri "${KIPRJMOD}/ip2312_module.kicad_sym")(options "")(descr ""))
+)

@@ -5,4 +5,7 @@
   (lib (name "esp32s3_devkit")(type "KiCad")(uri "${KIPRJMOD}/esp32s3_devkit.pretty")(options "")(descr ""))
   (lib (name "mt3608_module")(type "KiCad")(uri "${KIPRJMOD}/mt3608_module.pretty")(options "")(descr ""))
   (lib (name "ip2312_module")(type "KiCad")(uri "${KIPRJMOD}/ip2312_module.pretty")(options "")(descr ""))
+  (lib (name "max98357a_ic")(type "KiCad")(uri "${KIPRJMOD}/max98357a_ic.pretty")(options "")(descr ""))
+  (lib (name "ferrite murata BLM21PG600SN1D")(type "KiCad")(uri "${KIPRJMOD}/ferrite murata BLM21PG600SN1D.pretty")(options "")(descr ""))
+  (lib (name "RLS-102-F1-Miniature Rocker Toggle")(type "KiCad")(uri "${KIPRJMOD}/RLS-102-F1-Miniature Rocker Toggle.pretty")(options "")(descr ""))
 )

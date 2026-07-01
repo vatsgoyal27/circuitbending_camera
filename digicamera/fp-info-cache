@@ -1,4 +1,4 @@
-26790526967201800
+26795875195629859
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94954,6 +94954,13 @@ WiFi IEEE802.11 b/g/n
 0
 44
 44
+RLS-102-F1-Miniature Rocker Toggle
+RLS-102-F1-Toggle
+
+
+0
+3
+3
 Relay_SMD
 Relay_2P2T_10x6mm_TE_IMxxG
 Signal Relay, 10x6mm, 2 Form C, Gull Wings, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Data+Sheet%7F108-98001%7FZ.1%7Fpdf%7FEnglish%7FENG_DS_108-98001_Z.1.pdf
@@ -106434,6 +106441,13 @@ XCVR_ESP32-S3-DEVKITC-1-N16R8V
 0
 44
 44
+ferrite murata BLM21PG600SN1D
+BEADC2012X105N
+
+
+0
+2
+2
 ip2312_ic
 SOIC127P600X165-9N
 ESOP-8
@@ -106446,8 +106460,8 @@ Untitled
 
 
 0
-0
-0
+4
+4
 l293_ic
 DIP880W50P254L2000H510Q16
 
@@ -106469,6 +106483,13 @@ MODULE_MAX4466_Microphone_Pre-Amp_Audio_Evaluation_Board
 0
 5
 5
+max98357a_ic
+QFN50P300X300X80-17N
+
+
+0
+17
+17
 mt3608_module
 MODULE_MT3608_DC-DC_STEP_UP_CONVERTER_2A_BOOSTER_MODULE
 
